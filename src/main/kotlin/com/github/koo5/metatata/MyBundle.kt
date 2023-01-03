@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.koo5.metatata
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.koo5.metatata.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.koo5.metatata.MyBundle
 
 class MyApplicationService {
 
